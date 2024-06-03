@@ -42,14 +42,19 @@ My research interests include
 === Publications 
 
 (\* indicates equal contribution)
-. Songze Li\*, *Yanbo Dai*\*. BackdoorIndicator: Leveraging OOD Data for
-Proactive Backdoor Detection in Federated Learning. To be appeared in Usenix
-Security 2024.
-. *Yanbo Dai*, Songze Li. Chameleon: Adapting to Peer Images for Planting
-Durable Backdoors in Federated Learning. Proceedings of the 40 th International
-Conference on Machine Learning. (ICML 2023)
-. Hao Tang\*, *Yanbo Dai*\*, Dongchu Zhao, Zhiwei Sun, Fuqiang Chen, Yiliang
-Zhu,Huaping Liang, Hailin Cao, and Lianyang Zhang. Deep Domain Adaptation for
-Predicting Intra-AbdominalPressure with Multichannel Attention Fusion Radar
-Chip. Advanced Intelligent Systems.
+- [https://arxiv.org/abs/2405.20862 BackdoorIndicator: Leveraging OOD Data for
+Proactive Backdoor Detection in Federated Learning] \n
+Songze Li\*, *Yanbo Dai*\* \n
+To be appeared in Usenix Security 2024.
+
+- [https://proceedings.mlr.press/v202/dai23a Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated
+Learning] \n
+*Yanbo Dai*, Songze Li \n 
+ICML'23
+
+- Deep Domain Adaptation for Predicting Intra-AbdominalPressure with Multichannel Attention Fusion Radar
+Chip \n
+Hao Tang\*, *Yanbo Dai*\*, Dongchu Zhao, Zhiwei Sun, Fuqiang Chen, Yiliang
+Zhu,Huaping Liang, Hailin Cao, and Lianyang Zhang \n
+Advanced Intelligent Systems.
 
