@@ -3,8 +3,8 @@
 
 ~~~
 {}{img_left}{photos/bio1.jpg}{alt text}{408}{306}
-Yanbo Dai, Incoming Ph.D. Student \n
-Department of Computer Science Engineering \n
+Yanbo Dai, Ph.D. Student \n
+Department of Computer Science and Engineering \n
 The Hong Kong University of Science and Technology \n
 \n
 Email: ybdai7@gmail.com, ydai851@connect.hkust-gz-edu.cn \n
@@ -13,7 +13,7 @@ Email: ybdai7@gmail.com, ydai851@connect.hkust-gz-edu.cn \n
 
 == About me
 
-I am an incoming Ph.D. student at the CSE department of HKUST supervised by
+I am a first-year Ph.D. student at the CSE department of HKUST supervised by
 [https://www.cse.ust.hk/~shuaiw/ Prof. Shuai Wang]. Before that, I received my
 Mphil degree from the IoT Thrust, Information Hub under the supervision of
 [https://songzli.github.io/ Prof. Songze Li]. I received my bachelor degree of
@@ -45,7 +45,7 @@ My research interests include
 - [https://arxiv.org/abs/2405.20862 BackdoorIndicator: Leveraging OOD Data for
 Proactive Backdoor Detection in Federated Learning] \n
 Songze Li\*, *Yanbo Dai*\* \n
-To be appeared in Usenix Security 2024.
+Usenix Security 2024.
 
 - [https://proceedings.mlr.press/v202/dai23a Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated
 Learning] \n
