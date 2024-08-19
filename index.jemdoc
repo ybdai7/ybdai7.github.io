@@ -7,7 +7,7 @@ Yanbo Dai, Ph.D. Student \n
 Department of Computer Science and Engineering \n
 The Hong Kong University of Science and Technology \n
 \n
-Email: ybdai7@gmail.com, ydai851@cse.ust.hk \n
+Email: ydai851@cse.ust.hk(preferred), ybdai7@gmail.com \n
 \[[https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google Scholar]\]\[[https://github.com/ybdai7 Github]\] \n
 ~~~
 
@@ -23,7 +23,8 @@ worked with Prof. Hailin Cao.
 
 == Research
 My research interests include 
-- AI Security with a recent focus on Federated Learning
+- AI Security with a recent focus on LLMs
+- Backdoors in Federated Learning 
 - Backdoor Attacks \& Defenses
 
 == News
@@ -45,7 +46,7 @@ My research interests include
 - [https://arxiv.org/abs/2405.20862 BackdoorIndicator: Leveraging OOD Data for
 Proactive Backdoor Detection in Federated Learning] \n
 Songze Li\*, *Yanbo Dai*\* \n
-Usenix Security 2024.
+Usenix Security '24.
 
 - [https://proceedings.mlr.press/v202/dai23a Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated
 Learning] \n
