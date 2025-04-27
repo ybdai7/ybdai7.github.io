@@ -2,7 +2,7 @@
 ==Yanbo Dai 
 
 ~~~
-{}{img_left}{photos/bio1.jpg}{alt text}{408}{306}
+{}{img_left}{photos/bio1.jpg}{alt text}{306}{230}
 Yanbo Dai, Ph.D. Student \n
 Department of Computer Science and Engineering \n
 The Hong Kong University of Science and Technology \n
@@ -45,14 +45,12 @@ My research interests include
 - Research Assistant, School of Cyber Science and Engineering, Southeast University, hosted by Prof. Songze Li, Jun. 2024 - Aug. 2024
 - Summer Research Internship, Department of EEE, The University of Hong Kong, hosted by Prof. Y.C. Wu, Jun. 2021 - Aug. 2021
 
-=== Selected Publications (Full at
-[https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google
-Scholar])
+=== Selected Publications (Full at [https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google Scholar])
 
 (\* indicates equal contribution)
 - [http://arxiv.org/abs/2504.15674 TrojanDam: Detection-Free Backdoor Defense in
-Federated Learning through Proactive Model Robustification utilizing OOD Data]
-*Yanbo Dai*, Songze Li, Zihan Gan, Xueluan Gong
+Federated Learning through Proactive Model Robustification utilizing OOD Data]\n
+*Yanbo Dai*, Songze Li, Zihan Gan, Xueluan Gong \n
 Preprint
 
 - [https://arxiv.org/abs/2405.20862 BackdoorIndicator: Leveraging OOD Data for
