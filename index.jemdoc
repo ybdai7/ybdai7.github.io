@@ -8,7 +8,11 @@ Department of Computer Science and Engineering \n
 The Hong Kong University of Science and Technology \n
 \n
 Email: ydai851@cse.ust.hk(preferred), ybdai7@gmail.com \n
-\[[https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google Scholar]\]\[[https://github.com/ybdai7 Github]\] \n
+\[[https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google
+Scholar]\]\[[https://github.com/ybdai7 Github]\] \n
+\n
+\n
+Last Update: 2025.04.27
 ~~~
 
 == About me
@@ -24,6 +28,7 @@ worked with Prof. Hailin Cao.
 == Research
 My research interests include 
 - AI Security with a recent focus on LLMs
+- Model Editing
 - Backdoors in Federated Learning 
 - Backdoor Attacks \& Defenses
 
@@ -40,9 +45,16 @@ My research interests include
 - Research Assistant, School of Cyber Science and Engineering, Southeast University, hosted by Prof. Songze Li, Jun. 2024 - Aug. 2024
 - Summer Research Internship, Department of EEE, The University of Hong Kong, hosted by Prof. Y.C. Wu, Jun. 2021 - Aug. 2021
 
-=== Publications 
+=== Selected Publications (Full at
+[https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google
+Scholar])
 
 (\* indicates equal contribution)
+- [http://arxiv.org/abs/2504.15674 TrojanDam: Detection-Free Backdoor Defense in
+Federated Learning through Proactive Model Robustification utilizing OOD Data]
+*Yanbo Dai*, Songze Li, Zihan Gan, Xueluan Gong
+Preprint
+
 - [https://arxiv.org/abs/2405.20862 BackdoorIndicator: Leveraging OOD Data for
 Proactive Backdoor Detection in Federated Learning] \n
 Songze Li\*, *Yanbo Dai*\* \n
