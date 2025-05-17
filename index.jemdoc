@@ -12,7 +12,7 @@ Email: ydai851@cse.ust.hk(preferred), ybdai7@gmail.com \n
 Scholar]\]\[[https://github.com/ybdai7 Github]\] \n
 \n
 \n
-Last Update: 2025.04.27
+Last Update: 2025.05.17
 ~~~
 
 == About me
@@ -29,8 +29,28 @@ worked with Prof. Hailin Cao.
 My research interests include 
 - AI Security with a recent focus on LLMs
 - Model Editing
-- Backdoors in Federated Learning 
-- Backdoor Attacks \& Defenses
+- Backdoors Attacks \& Defenses in Federated Learning 
+
+My research journey began with developing secure federated learning (FL)
+systems, which are especially resilient to backdoor attacks. For attack
+algorithms, I investigated how adversaries could exploit sample relationships to
+inject more durable backdoors ([https://proceedings.mlr.press/v202/dai23a
+ICML'23]). For defensive mechanisms, I proposed **proactive defenses via
+out-of-distribution data**, which has stronger defense performance under strong
+non-IID settings or long-term continusous injection scenarios. After receiving
+client updates, the server can either employ indicator-based screening
+([https://arxiv.org/abs/2405.20862 Usenix Security'24]) or direct aggregation
+([http://arxiv.org/abs/2504.15674 arXiv'25]) to effectively eliminate backdoors.
+
+During my PhD, my focus shifted to enhancing the security and reliability of
+large language models (LLMs). I see model editing as a powerful technique to
+hack or safeguard LLMs with minimal computational and data overhead. My work
+identifies root causes behind the failures of existing model editing methods in
+large-scale and context-rich settings and proposes targeted countermeasures
+([arXiv'25]). 
+
+I am committed to advancing secure and trustworthy LLM systems. Feel free to
+reach out if you’re interested in discussing my research.
 
 == News
 - \[05-30-2024\] One paper is accepted by Usenix Security'24!
@@ -48,6 +68,11 @@ My research interests include
 === Selected Publications (Full at [https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google Scholar])
 
 (\* indicates equal contribution)
+
+- [NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization]\n
+*Yanbo Dai*, Zhenlan Ji, Zongjie Li, Shuai Wang \n
+Preprint
+
 - [http://arxiv.org/abs/2504.15674 TrojanDam: Detection-Free Backdoor Defense in
 Federated Learning through Proactive Model Robustification utilizing OOD Data]\n
 *Yanbo Dai*, Songze Li, Zihan Gan, Xueluan Gong \n
