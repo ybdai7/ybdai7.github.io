@@ -47,7 +47,7 @@ large language models (LLMs). I see model editing as a powerful technique to
 hack or safeguard LLMs with minimal computational and data overhead. My work
 identifies root causes behind the failures of existing model editing methods in
 large-scale and context-rich settings and proposes targeted countermeasures
-([arXiv'25]). 
+([https://arxiv.org/abs/2505.11876 arXiv'25]). 
 
 I am committed to advancing secure and trustworthy LLM systems. Feel free to
 reach out if you’re interested in discussing my research.
@@ -69,7 +69,7 @@ reach out if you’re interested in discussing my research.
 
 (\* indicates equal contribution)
 
-- [NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization]\n
+- [https://arxiv.org/abs/2505.11876 NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization]\n
 *Yanbo Dai*, Zhenlan Ji, Zongjie Li, Shuai Wang \n
 Preprint
 
