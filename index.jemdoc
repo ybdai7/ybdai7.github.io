@@ -2,7 +2,7 @@
 ==Yanbo Dai 
 
 ~~~
-{}{img_left}{photos/bio1.jpg}{alt text}{306}{230}
+{}{img_left}{photos/WechatIMG283.jpeg}{alt text}{225}{300}
 Yanbo Dai, Ph.D. Student \n
 Department of Computer Science and Engineering \n
 The Hong Kong University of Science and Technology \n
@@ -12,12 +12,12 @@ Email: ydai851@cse.ust.hk(preferred), ybdai7@gmail.com \n
 Scholar]\]\[[https://github.com/ybdai7 Github]\] \n
 \n
 \n
-Last Update: 2025.05.17
+Last Update: 2025.07.16
 ~~~
 
 == About me
 
-I am a first-year Ph.D. student at the CSE department of HKUST supervised by
+I am a second-year Ph.D. student at the CSE department of HKUST supervised by
 [https://www.cse.ust.hk/~shuaiw/ Prof. Shuai Wang]. Before that, I received my
 Mphil degree from the IoT Thrust, Information Hub under the supervision of
 [https://songzli.github.io/ Prof. Songze Li]. I received my bachelor degree of
@@ -28,7 +28,7 @@ worked with Prof. Hailin Cao.
 == Research
 My research interests include 
 - AI Security with a recent focus on LLMs
-- Model Editing
+- Model Editing and its security applications
 - Backdoors Attacks \& Defenses in Federated Learning 
 
 My research journey began with developing secure federated learning (FL)
@@ -71,12 +71,12 @@ reach out if you’re interested in discussing my research.
 
 - [https://arxiv.org/abs/2505.11876 NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization]\n
 *Yanbo Dai*, Zhenlan Ji, Zongjie Li, Shuai Wang \n
-Preprint
+Preprint'25
 
 - [http://arxiv.org/abs/2504.15674 TrojanDam: Detection-Free Backdoor Defense in
 Federated Learning through Proactive Model Robustification utilizing OOD Data]\n
 *Yanbo Dai*, Songze Li, Zihan Gan, Xueluan Gong \n
-Preprint
+Preprint'25
 
 - [https://arxiv.org/abs/2405.20862 BackdoorIndicator: Leveraging OOD Data for
 Proactive Backdoor Detection in Federated Learning] \n
@@ -102,4 +102,4 @@ Advanced Intelligent Systems.
 == Teaching
 
 - Teaching Assistant, COMP1944 - Artificial Intelligence Ethics, HKUST, 2024 Fall.
-- Teaching Assistant Coordinator, HKUST, 2025 Fall-2026 Fall.
+- Teaching Assistant Coordinator, HKUST, 2025 Fall, 2026 Fall.
