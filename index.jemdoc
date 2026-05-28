@@ -18,7 +18,8 @@ Last Update: 2026.01.26
 == About me
 
 I am a second-year Ph.D. student at the CSE department of HKUST supervised by
-[https://www.cse.ust.hk/~shuaiw/ Prof. Shuai Wang]. Before that, I received my
+[https://www.cse.ust.hk/~shuaiw/ Prof. Shuai Wang]. I am currently a research
+intern at the Echo Team of [https://www.unipat.ai/ UniPat AI]. Before that, I received my
 Mphil degree from the IoT Thrust, Information Hub under the supervision of
 [https://songzli.github.io/ Prof. Songze Li]. I received my bachelor degree of
 electronic information engineering from the Excellence class, School of
@@ -53,6 +54,9 @@ I am committed to advancing secure and trustworthy LLM systems. Feel free to
 reach out if you’re interested in discussing my research.
 
 == News
+- \[01-26-2026\] Our paper, DisarmRAG, is accepted by CCS'26!
+- \[01-26-2026\] Moved to Peking. Joined [https://www.unipat.ai/ UniPat AI].
+- \[01-26-2026\] one paper is accepted by Usenix Security'26!
 - \[01-26-2026\] Our paper, EAMET, is accepted by ICLR'26!
 - \[05-30-2024\] One paper is accepted by Usenix Security'24!
 - \[04-25-2023\] One paper is accepted by ICML'23!
@@ -63,11 +67,11 @@ reach out if you’re interested in discussing my research.
 - B.Eng. in Electronic Information Engineering, Chongqing University, Sep. 2018 - Jun. 2022
 
 == Experience
+- Research Internship, [https://www.unipat.ai/ UniPat AI], May. 2026 - 
 - Research Assistant, School of Cyber Science and Engineering, Southeast University, hosted by Prof. Songze Li, Jun. 2024 - Aug. 2024
 - Summer Research Internship, Department of EEE, The University of Hong Kong, hosted by Prof. Y.C. Wu, Jun. 2021 - Aug. 2021
 
 === Selected Publications (Full at [https://scholar.google.com/citations?user=t4oYytgAAAAJ&hl=en&oi=ao Google Scholar])
-
 
 
 (\* indicates equal contribution)
@@ -75,14 +79,18 @@ reach out if you’re interested in discussing my research.
 *Yanbo Dai*, Zongjie Li, Zhenlan Ji, Shuai Wang \n
 Preprint'25
 
-- [https://arxiv.org/abs/2508.20083 Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning]\n
-*Yanbo Dai*, Zhenlan Ji, Zongjie Li, Kuan Li, Shuai Wang \n
-Preprint'25
-
 - [http://arxiv.org/abs/2504.15674 TrojanDam: Detection-Free Backdoor Defense in
 Federated Learning through Proactive Model Robustification utilizing OOD Data]\n
 *Yanbo Dai*, Songze Li, Zihan Gan, Xueluan Gong \n
 Preprint'25
+
+- [https://arxiv.org/abs/2508.20083 DisarmRAG: Stealthy Retriever Poisoning to Disable Self-Correction in Retrieval-Augmented Generation]\n
+*Yanbo Dai*, Zhenlan Ji, Zongjie Li, Kuan Li, Shuai Wang \n
+CCS'26
+
+- When the Aggregator Cheats: Data-Free Backdoors in Federated LLM-based QA Systems\n
+Chenqing Zhu, *Yanbo Dai*, Yulong Tian, Qingming Li, Songze Li \n
+Usenix Security'26
 
 - [https://arxiv.org/abs/2505.11876 EAMET: Robust Massive Model Editing via Embedding Alignment Optimization]\n
 *Yanbo Dai*, Zhenlan Ji, Zongjie Li, Shuai Wang \n
