@@ -30,6 +30,12 @@ import io
 from subprocess import *
 import tempfile
 
+def pipetextline(pipe):
+  line = pipe.readlines()[0].rstrip()
+  if isinstance(line, bytes):
+    line = line.decode('utf-8', 'replace')
+  return line
+
 def info():
   print(__doc__)
   print('Platform: ' + sys.platform + '.')
@@ -51,14 +57,14 @@ def testeqsupport():
     msg += '  latex: not found.\n'
     supported = False
   else:
-    msg += '  latex: ' + p.stdout.readlines()[0].rstrip() + '.\n'
+    msg += '  latex: ' + pipetextline(p.stdout) + '.\n'
   p = Popen('dvipng --version', shell=True, stdout=PIPE, stderr=PIPE)
   rc = p.wait()
   if rc != 0:
     msg += '  dvipng: not found.\n'
     supported = False
   else:
-    msg += '  dvipng: ' + p.stdout.readlines()[0].rstrip() + '.\n'
+    msg += '  dvipng: ' + pipetextline(p.stdout) + '.\n'
 
   return (supported, msg[:-1])
 
